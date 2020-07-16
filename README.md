@@ -7,4 +7,6 @@ Hello everyone, my name is Dominic Cabitac. I am 23 years old and I am going int
   - Web and Mobile
 
 ### Technical Skills
-https://img.shields.io/static/v1?label=<LABEL>&HTML=<MESSAGE>&orange=<COLOR>
+<div class="text-white bg-orange mb-2">
+  HTML
+</div>

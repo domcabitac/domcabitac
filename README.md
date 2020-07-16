@@ -7,6 +7,5 @@ Hello everyone, my name is Dominic Cabitac. I am 23 years old and I am going int
   - Web and Mobile
 
 ### Technical Skills
-<div class="text-white bg-orange mb-2">
-  HTML
-</div>
+<span style="background-color:orange">HTML</span>
+

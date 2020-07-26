@@ -12,5 +12,4 @@ Hello everyone, my name is Dominic Cabitac. I am 23 years old and I am going int
 ### Connect with me
 <a href="https://www.linkedin.com/in/dominic-cabitac/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-![Dominic's Github Stats](https://github-readme-stats.vercel.app/api?domcabitac=anuraghazra&theme=dark&show_icons=true
-
+![Dominic's Github Stats](https://github-readme-stats.vercel.app/api?username=domcabitac&theme=tokyonight&show_icons=true

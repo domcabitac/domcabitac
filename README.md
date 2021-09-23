@@ -1,5 +1,5 @@
 # 🖥 Aspiring Web Developer
-Hello everyone, my name is Dominic Cabitac. I am 23 years old and I am going into my final semester of Computer Science at [Ontario Tech University](https://ontariotechu.ca). 
+Hello everyone, my name is Dominic Cabitac. I am a recent graduate from Ontario Tech University with a Bachelor of Science in Computer Science. I am eager to help a company grow while gaining valuable experience that will be beneficial in the future. I am currently working at RBC as a Career Launch Associate. 
 
 ### Interests
 - Web Development

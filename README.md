@@ -10,5 +10,3 @@ Hello everyone, my name is Dominic Cabitac. I am a Ontario Tech University gradu
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/dominic-cabitac/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-![Dom's Github Stats](https://github-readme-stats.vercel.app/api?username=domcabitac&show_icons=true&theme=default)
